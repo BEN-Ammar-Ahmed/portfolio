@@ -42,7 +42,7 @@ NOVA is a personal AI system designed around real-time voice interaction, vision
 
 VALO is a Windows desktop dashboard exploring modular widgets, ambient information, customizable visual themes, and a more intentional desktop experience.
 
-**Technologies:** C#, WinUI, Desktop Development, UI/UX
+**Technologies:** Tauri, JavaScript, Python, Desktop Development, UI/UX
 
 ---
 
@@ -85,7 +85,7 @@ Models explored include:
 `Machine Learning` `AI Agents` `PostgreSQL` `Data Analysis`
 
 ### Product & Interface
-`WinUI` `Responsive Web Design` `UI/UX` `Desktop Applications`
+`Tauri` `Responsive Web Design` `UI/UX` `Desktop Applications`
 
 ---
 
